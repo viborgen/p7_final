@@ -5,7 +5,7 @@
 
 The dataset can be found within the 'Dataset' directory 
 
-There are 21.017 RAW and RGB object sample pairs in the dataset
+There are 21.017 RAW and RGB object sample pairs in the dataset divided into 5 classes, each with a resolution of 40x40 pixels
 
 ## Code Implementation
 
