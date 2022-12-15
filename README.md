@@ -21,7 +21,7 @@ In the 'BCA' directory, the tensorflow implementation code for combining origina
 In the 'ResNet' directory, the tensorflow implementation code for the ResNet-101 convolutional neural network is shown.
 
 ## Testing
-For testing the dataset in the ResNet-101 model a split of train: 70 %, validation: 21 % and testing: 9 % has been used.
+For testing the dataset in the ResNet-101 model a randomized split of train: 70 %, validation: 21 % and testing: 9 % has been used.
 
 ## Acknowledgements
 For collaboration and loan of XF IQ4 camera and Schneider Kreuznach LS 80mm f/2.8 lens, special thanks to Lau Nørgaard, Chief Technology Officer at Phase One. For assistance with the capture setup for the dataset, special thanks to Kenneth Knirke and Claus Vestergaard Skipper, Assistant Engineers, Department of Electronic Systems at AAU.
