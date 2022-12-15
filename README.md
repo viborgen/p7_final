@@ -15,7 +15,7 @@ There are 21.017 RAW and RGB object sample pairs in the dataset divided into 5 c
 
 ## Code Implementation
 
-In the 'Segmentation' directory, the sample processing pipeline is shown for calculating each 40x40 object sample from the high resolution captures 550cm above a capture surface with rice grains.
+In the 'Segmentation' directory, the sample processing pipeline is shown for calculating each 40x40 object sample from high resolution captures 550cm above a capture surface with rice grains.
 In the 'SDK' directory, the C++ implementation of the Phase One Image SDK is shown for processing the IIQ 16-L 151 MP RAW images into binary files for the RAW data and into PNG files for the RGB data. 
 In the 'BCA' directory, the tensorflow implementation code for combining original RAW images and 'packed' RAW images is shown. 
 In the 'ResNet' directory, the tensorflow implementation code for the ResNet-101 convolutional neural network is shown.
