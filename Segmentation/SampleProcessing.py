@@ -6,11 +6,8 @@ import time
 from tqdm import tqdm
 import math
 
-#Load parameters from config file
 classNames = ["arborio", "basmati", "brown", "jasmin", "parboiled"]
-RGBCvtTimes = []
-RAWCropTimes = []
-PackAndCropTimes = []
+
 for className in tqdm(classNames):
     inputDirectory = "input/"+className+"/"
     outputDirectory = "Dataset/"
