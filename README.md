@@ -12,6 +12,8 @@ There are 21.017 RAW and RGB object sample pairs in the dataset divided into 5 c
   - Brown: 4400
   - Jasmin: 4529
   - Parboiled: 4103
+  
+The link to the dataset can be found here: https://www.kaggle.com/datasets/rasmusmunks/raw-instead-of-rgb
 
 ## Code Implementation
 
